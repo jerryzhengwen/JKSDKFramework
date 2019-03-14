@@ -1,0 +1,2 @@
+# JKSDKFramework
+这是一个关于集成久科IMSDK的初期版本设计。主要是集成于访客端SDK。用户可以通过cocoaPod进行集成，方便二次开发。
